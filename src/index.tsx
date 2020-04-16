@@ -19,7 +19,7 @@ ReactDOM.render(
     <main role="main">
       <Jumbotron>
         <Container>
-        <h1>Hello, world!</h1>
+        <h1 className="display-3">Hello, world!</h1>
         <p>
           This is a simple hero unit, a simple jumbotron-style component for calling
           extra attention to featured content or information.
@@ -32,20 +32,20 @@ ReactDOM.render(
 
       <Container>
         <Row>
-           <Col>
+           <Col md="4">
               <h2>Heading</h2>
               <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-              <Button variant="secondary">Learn more</Button>
+              <p><Button variant="secondary">View details »</Button></p>
            </Col>
-           <Col>
+           <Col md="4">
               <h2>Heading</h2>
               <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-              <Button variant="primary">Learn more</Button>
+              <p><Button variant="secondary">View details »</Button></p>
            </Col>
-           <Col>
+           <Col md="4">
               <h2>Heading</h2>
               <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-              <Button variant="primary">Learn more</Button>
+              <p><Button variant="secondary">View details »</Button></p>
            </Col>
         </Row>
         <hr/>
