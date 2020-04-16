@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-typescript-test/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-typescript-test/static/js/main.7d0bdad3.chunk.js",
-    "main.js.map": "/react-typescript-test/static/js/main.7d0bdad3.chunk.js.map",
+    "main.js": "/react-typescript-test/static/js/main.467c3c8e.chunk.js",
+    "main.js.map": "/react-typescript-test/static/js/main.467c3c8e.chunk.js.map",
     "runtime-main.js": "/react-typescript-test/static/js/runtime-main.aa0c26fa.js",
     "runtime-main.js.map": "/react-typescript-test/static/js/runtime-main.aa0c26fa.js.map",
     "static/css/2.de424728.chunk.css": "/react-typescript-test/static/css/2.de424728.chunk.css",
     "static/js/2.1a9b7381.chunk.js": "/react-typescript-test/static/js/2.1a9b7381.chunk.js",
     "static/js/2.1a9b7381.chunk.js.map": "/react-typescript-test/static/js/2.1a9b7381.chunk.js.map",
     "index.html": "/react-typescript-test/index.html",
-    "precache-manifest.245ff09fa5df5ad89fde8597ad11378c.js": "/react-typescript-test/precache-manifest.245ff09fa5df5ad89fde8597ad11378c.js",
+    "precache-manifest.98010df5444fa7c050a51de974313d98.js": "/react-typescript-test/precache-manifest.98010df5444fa7c050a51de974313d98.js",
     "service-worker.js": "/react-typescript-test/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-typescript-test/static/css/2.de424728.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-typescript-test/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.1a9b7381.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7d0bdad3.chunk.js"
+    "static/js/main.467c3c8e.chunk.js"
   ]
 }
